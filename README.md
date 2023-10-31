@@ -1,9 +1,9 @@
 # Banking System App
-An Object-Oriented program to have an interactive menu for a Banking App.
+An Object-Oriented program to have an interactive Banking App.
 
 # Instructions
 The user starts by making a new bank account and ask for an initial balance.
-The user has an interactive menu to choose those:
+The user can make choices from the banking menu:
 
 1. Withdraw: The user can remove money from their bank account.
 2. Deposit: The user can add money to their bank account.
