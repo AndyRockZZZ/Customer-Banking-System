@@ -13,4 +13,11 @@ The user can make choices from the banking menu:
 6. View Balance: The user can view their balance under an account they are currently in.
 7. Exit: The user logs out, doesn't save the accounts, and ends the program.
 
+# Program Files
 
+Account.cs - This file contains the Customer and Bank Account classes with all their methods and variables.
+Program.cs - This file shows the operation of the Banking System, it prints on Console.
+
+# Updates
+
+1. Instead of printing the whole thing in console. Perhaps I could make a GUI version of it. Make it user-friendly and interactive to see the actual program.
