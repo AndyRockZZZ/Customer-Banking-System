@@ -21,3 +21,4 @@ Program.cs - This file shows the operation of the Banking System, it prints on C
 # Updates
 
 1. Instead of printing the whole thing in console. Perhaps I could make a GUI version of it. Make it user-friendly and interactive to see the actual program.
+2. Make a file to record all the customers and their accounts, so the existing customers can access to their accounts without creating a new one.
